@@ -1,0 +1,61 @@
+/* Body styling */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  h1 {
+    color: #00f; /* Blue */
+  }
+  
+  /* Like button styling */
+  .like-btn {
+    background-color: #00f; /* Blue */
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .like-btn:hover {
+    background-color: #3399ff; /* Lighter blue */
+  }
+  
+  /* Liked button styling */
+  .liked-btn {
+    background-color: #800080; /* Purple */
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .liked-btn:hover {
+    background-color: #9933ff; /* Lighter purple */
+  }
+  
+  /* Heart icon styling */
+  .heart {
+    width: 20px;
+    height: 20px;
+    background-color: #9933ff; /* Purple */
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  /* Article styling */
+  article {
+    margin-bottom: 20px;
+  }
+  
+  /* Link styling */
+  a {
+    color: #00f; /* Blue */
+  }
+  
+  a:hover {
+    color: #3399ff; /* Lighter blue */
+  }
+  
